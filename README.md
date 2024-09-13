@@ -3,9 +3,10 @@
 <h3 align="center">Confusion is part of programing.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=istiqomah-21&label=Profile%20views&color=0e75b6&style=flat" alt="istiqomah-21" /> </p>
 <a target="_blank" align="center">
-  <img align="center" top="1000" height="800" width="1000" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="center" top="800" height="500" width="1000" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-My Topic
+
+### My Topic
 
 ---
 
