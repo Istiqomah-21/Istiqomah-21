@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Advanced AI**
 
-- 💬 Ask me about **Phyton**
+- 💬 Ask me something related to **Phyton**
 
 - 📫 How to reach me **Syistiqomah.sbs@gmail.com**
 
